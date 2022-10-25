@@ -6,7 +6,7 @@ export default  {
     entry: './dist/index.js',
     output: {
         path: path.resolve(__dirname, './packed'),
-        filename: 'threadDownloader.cjs',
+        filename: 'threadDownloader-050.cjs',
     },
     experiments: {
         outputModule: true,
