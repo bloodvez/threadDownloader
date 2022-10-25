@@ -1,0 +1,14 @@
+coverage/
+dist/
+node_modules/
+packed/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# configuration
+.env
+.env.*
+!.env.dist
