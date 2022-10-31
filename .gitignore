@@ -1,8 +1,6 @@
 coverage/
 dist/
 node_modules/
-packed/
-.parcel-cache/
 *.log
 
 # IDE
